@@ -1,0 +1,8 @@
+risk/bin/
+risk/.settings/
+risk/project/
+risk/target/
+risk/.cache-main
+risk/.cache-tests
+risk/.classpath
+risk/.project
